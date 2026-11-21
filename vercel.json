@@ -5,6 +5,11 @@
       "source": "/OrientationForm",
       "destination": "https://forms.gle/BUqnL1ep8aADLuVt8",
       "permanent": true
+    },
+    {
+      "source": "/EventsUpdates",
+      "destination": "https://chat.whatsapp.com/CijqdrjvyegIgiUugXn05Z",
+      "permanent": true
     }
   ]
 }
