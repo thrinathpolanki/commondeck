@@ -10,6 +10,16 @@
       "source": "/EventsUpdates",
       "destination": "https://chat.whatsapp.com/CijqdrjvyegIgiUugXn05Z",
       "permanent": true
+    },
+    {
+      "source": "/1stYearQuiz",
+      "destination": "https://chat.whatsapp.com/CijqdrjvyegIgiUugXn05Z",
+      "permanent": true
+    },
+    {
+      "source": "/2ndYearQuiz",
+      "destination": "https://chat.whatsapp.com/CijqdrjvyegIgiUugXn05Z",
+      "permanent": true
     }
   ]
 }
