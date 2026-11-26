@@ -7,6 +7,11 @@
       "permanent": true
     },
     {
+      "source": "/RegistrationEntries",
+      "destination": "https://docs.google.com/spreadsheets/d/1UpkYQ9tMrcaWDvaNGKYYbW3DHXO4CXWChj4BDlmMglM/edit?usp=sharing",
+      "permanent": true
+    },
+    {
       "source": "/EventsUpdates",
       "destination": "https://chat.whatsapp.com/CijqdrjvyegIgiUugXn05Z",
       "permanent": true
