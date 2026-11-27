@@ -7,6 +7,11 @@
       "permanent": true
     },
     {
+      "source": "/CareerGPT",
+      "destination": "https://chatgpt.com/share/6b01cf2b-6ed4-83ee-a7ad-3bb1d192c0f6",
+      "permanent": true
+    },
+    {
       "source": "/RegistrationEntries",
       "destination": "https://docs.google.com/spreadsheets/d/1UpkYQ9tMrcaWDvaNGKYYbW3DHXO4CXWChj4BDlmMglM/edit?usp=sharing",
       "permanent": true
